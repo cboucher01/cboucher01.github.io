@@ -7,7 +7,7 @@ permalink: /
 
 # Welcome! 🌱
 
-<p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
+<p style="padding: 1em 1em; background: #f5f7ff; border-radius: 4px;">
   This site is a work in progress.
 </p>
 
