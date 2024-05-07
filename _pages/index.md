@@ -11,7 +11,7 @@ permalink: /
   This site is a work in progress.
 </p>
 
-This my digital garden, where I write about the things I like to do. I'll write notes about my work as well as my hobbies.
+My name is Cameron, and this my digital garden, where I write about the things I like to do. I'll write notes about my work as well as my hobbies.
 
 Take a look at <span style="font-weight: bold">[[about-me]]</span> to get started on your exploration.
 
