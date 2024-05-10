@@ -83,7 +83,7 @@ a {
   color: $color-primary;
   &:hover {
     color: black !important;
-    background: #ffffef;
+    background: #fffaf1;
   }
   &:after {
     position: relative;
@@ -100,7 +100,7 @@ a {
 }
 
 *:focus {
-  background: #e6e488 !important;
+  background: #ffe8bc !important;
   color: black !important;
 }
 
