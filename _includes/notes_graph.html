@@ -4,22 +4,32 @@
     opacity: 0.5;
   }
 
+  /* 
+  Green Color Palette (darkest to lightest):
+  #333e2b
+  #758467
+  #819171
+  #9caf88
+  #cbd5c0
+  #dfe6da
+  */
+
   .nodes circle {
     cursor: pointer;
-    fill: #8b88e6;
+    fill: #9caf88;
     transition: all 0.15s ease-out;
   }
 
   .text text {
     cursor: pointer;
-    fill: #333;
+    fill: #333e2b;
     text-shadow: -1px -1px 0 #fafafabb, 1px -1px 0 #fafafabb, -1px 1px 0 #fafafabb, 1px 1px 0 #fafafabb;
   }
 
   .nodes [active],
   .text [active] {
     cursor: pointer;
-    fill: black;
+    fill: #758467;
   }
 
   .inactive {
@@ -28,7 +38,7 @@
   }
 
   #graph-wrapper {
-    background: #fcfcfc;
+    background: #cbd5c0;
     border-radius: 4px;
     height: auto;
   }
