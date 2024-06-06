@@ -15,7 +15,7 @@ My name is Cameron Boucher. I work as an [[Educational and Scholarly Technology 
 
 If you're interested in my professional and academic career, take a look at my [[CV]] to get started on your exploration.
 
-I've also written notes about my other hobbies and interests, so feel free to explore!
+I've also written notes about my other [[hobbies]] and [[interests]], so feel free to explore!
 
 <strong>Recently updated notes</strong>
 
