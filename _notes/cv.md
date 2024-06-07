@@ -66,11 +66,11 @@ title: Curriculum Vitae
 - **Slavic DH Workshop: Doing Digital Editions**, Association for Slavic, East European, and Eurasian Studies (ASEEES), January 20, 2023
 - **Building a Critical Web Design Toolkit**, Bucknell University Digital Scholarship Conference (BUDSC), October 20, 2022
 
-## Digital Scholarship Projects
+## Digital Projects
 - **Lead Front-end Developer and UX Designer for [[The Encyclopedia of the Dog]]**, a bilingual annotated edition of Sasha Sokolov’s 1980 novel Between Dog and Wolf, launched November 2023
 - **Front-end Developer and Project Assistant for [[The Reactor Room]]**, an immersive Chornobyl exhibition, launched November 2023
 - **Front-end Developer for [[Who Built Bryn Mawr?]] 2023-2026**, an iteration of the Who Built Bryn Mawr? project that focuses on researching Asian histories at the college, from its founding to the present day
 - **Full-stack Developer for [[The Critical Web Design Toolkit]]**, a static website template and collection of resources for sustainable and accessible web design, launched August 2022
 
-## Certification
+## Certifications
 - **Communications Certification**, received June 2019 from the Communications Academy at Woodstown High School in Woodstown, NJ
