@@ -1,8 +1,10 @@
-$color-primary: hsl(0, 0%, 10%);
-$color-text: hsl(0, 0%, 20%);
-$color-subtext: hsl(0, 0%, 30%);
-$color-border: hsl(0, 0%, 85%);
-$color-box-background: mix($color-primary, white, 4%);
+$color-primary: #8FBB68;
+$color-text: lightgrey;
+$color-subtext: rgb(164, 164, 164);
+$color-border: #242424;
+$color-background: #1d1d1d;
+$color-box-background: #000000;
+$color-box-background-hover: #111111;
 $border-radius: 4px;
 $font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial,
   sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;
@@ -14,6 +16,7 @@ body {
   line-height: 1.7;
   padding: 4vh 6vw;
   overflow-x: hidden;
+  background-color: $color-background;
   color: $color-text;
   font-size: 1rem;
   max-width: 63em;
@@ -61,7 +64,7 @@ hr {
   border: 0;
   height: 1px;
   margin: 1.5em 0;
-  background: $color-border;
+  background: $color-box-background;
 }
 
 h1,
@@ -76,14 +79,17 @@ h6 {
 }
 
 a {
-  transition: background 300ms;
+  /* transition: background 300ms;
+  transition: color 300ms;
+  transition: border-bottom 300ms;*/
   padding: 0 0.1em;
   text-decoration: none;
-  border-bottom: 1px solid $color-border;
+  border-bottom: 1px solid $color-primary;
   color: $color-primary;
   &:hover {
-    color: black !important;
-    background: #fffaf1;
+    color: $color-text !important;
+    border-bottom: 1px solid $color-text;
+    /* background: #181818; */
   }
   &:after {
     position: relative;
@@ -100,8 +106,48 @@ a {
 }
 
 *:focus {
-  background: #ffe8bc !important;
+  background: $color-primary !important;
   color: black !important;
+}
+
+content a.internal-link {
+  /* transition: background 300ms;
+  transition: color 300ms;
+  transition: border-bottom 300ms; */
+  border-color: $color-primary;
+  background-color: $color-box-background;
+  &:hover {
+    color: $color-text !important;
+    border-bottom: 1px solid $color-text;
+    background: $color-box-background-hover;
+  }
+}
+
+#tooltip-wrapper {
+  background: rgb(0, 0, 0);
+  padding: 1em;
+  border: 1px solid $color-border;
+  border-radius: 4px;
+  overflow: hidden;
+  position: absolute;
+  width: 400px;
+  height: 250px;
+  font-size: 0.8em;
+  box-shadow: 0 5px 10px rgba(0,0,0,0.1);
+  opacity: 0;
+  transition: opacity 100ms;
+}
+
+#tooltip-wrapper:after {
+  content: "";
+  position: absolute;
+  z-index: 1;
+  bottom: 0;
+  left: 0;
+  pointer-events: none;
+  background-image: linear-gradient(to bottom, rgba(255,255,255, 0), rgb(0, 0, 0) 90%);
+  width: 100%;
+  height: 75px;
 }
 
 nav {
@@ -136,11 +182,51 @@ code {
 .invalid-link {
   color: #444444;
   cursor: help;
-  background: #fafafa;
   padding: 0 0.1em;
 }
 
 .invalid-link-brackets {
-  color: #ccc;
+  color: #444444;
   cursor: help;
+}
+
+/* Notes Graph */
+
+.links line {
+  stroke: $color-subtext;
+  opacity: 0.5;
+}
+
+.nodes circle {
+  cursor: pointer;
+  fill: $color-primary;
+  transition: all 0.15s ease-out;
+}
+
+.text text {
+  cursor: pointer;
+  fill: $color-text;
+  /* text-shadow: -1px -1px 0 #fafafabb, 1px -1px 0 #fafafabb, -1px 1px 0 #fafafabb, 1px 1px 0 #fafafabb; */
+}
+
+.nodes [active],
+.text [active] {
+  cursor: pointer;
+  fill: $color-text;
+}
+
+.inactive {
+  opacity: 0.1;
+  transition: all 0.15s ease-out;
+}
+
+#graph-wrapper {
+  background: $color-box-background;
+  border-radius: 4px;
+  height: auto;
+}
+
+#graph-wrapper > svg {
+  max-width: 100%;
+  display: block;
 }
