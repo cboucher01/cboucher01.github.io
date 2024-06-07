@@ -3,8 +3,8 @@ $color-text: lightgrey;
 $color-subtext: rgb(164, 164, 164);
 $color-border: #242424;
 $color-background: #1d1d1d;
-$color-box-background: #000000;
-$color-box-background-hover: #111111;
+$color-box-background: #0a0a0a;
+$color-box-background-hover: mix($color-box-background, rgba(255, 255, 255, 0), 50%);
 $border-radius: 4px;
 $font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial,
   sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;
@@ -96,7 +96,7 @@ a {
     top: -0.5em;
     font-size: 0.7em;
     content: "↗";
-    color: #aaaaaa;
+    color: inherit;
   } 
   &.internal-link:after,
   &.footnote:after,
@@ -125,7 +125,7 @@ content a.internal-link {
 }
 
 #tooltip-wrapper {
-  background: rgb(0, 0, 0);
+  background: $color-box-background;
   padding: 1em;
   border: 1px solid $color-border;
   border-radius: 4px;

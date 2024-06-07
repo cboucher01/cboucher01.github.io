@@ -7,7 +7,7 @@ permalink: /
 
 # Welcome!
 
-<p style="padding: 1em 1em; background: #000000; border-radius: 4px;">
+<p style="padding: 1em 1em; background: #0a0a0a; border-radius: 4px;">
   This site is a work in progress.
 </p>
 
