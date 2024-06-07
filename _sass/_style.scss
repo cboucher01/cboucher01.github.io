@@ -1,4 +1,4 @@
-$color-primary: #8FBB68;
+$color-primary: #8FB792;
 $color-text: lightgrey;
 $color-subtext: rgb(164, 164, 164);
 $color-border: #242424;
@@ -87,7 +87,7 @@ a {
   border-bottom: 1px solid $color-primary;
   color: $color-primary;
   &:hover {
-    color: $color-text !important;
+    color: $color-text;
     border-bottom: 1px solid $color-text;
     /* background: #181818; */
   }
@@ -97,17 +97,12 @@ a {
     font-size: 0.7em;
     content: "↗";
     color: #aaaaaa;
-  }
+  } 
   &.internal-link:after,
   &.footnote:after,
   &.reversefootnote:after {
     content: "";
   }
-}
-
-*:focus {
-  background: $color-primary !important;
-  color: black !important;
 }
 
 content a.internal-link {
@@ -117,10 +112,16 @@ content a.internal-link {
   border-color: $color-primary;
   background-color: $color-box-background;
   &:hover {
-    color: $color-text !important;
+    color: $color-text;
     border-bottom: 1px solid $color-text;
     background: $color-box-background-hover;
   }
+}
+
+*:focus {
+  background: $color-primary !important;
+  border-bottom: 1px solid black !important;
+  color: black !important;
 }
 
 #tooltip-wrapper {
