@@ -1,0 +1,25 @@
+---
+layout: default
+---
+
+<article>
+    <h1>Welcome!</h1>
+    <p style="padding: 1em 1em; background: #0a0a0a; border-radius: 4px;">
+        This site is a work in progress.
+    </p>
+    <div id="home-container">
+        <side style="font-size: 0.9em">
+            <img src="{{ "/assets/portrait.jpg" | relative_url }}" alt="A photograph of Cameron in a green and black dress and sunglasses, looking to the side.">
+        </side>
+        <content>
+        {{ content }}
+      </content>
+    </div>
+  </article>
+  
+  <hr>
+  
+  <p>Here are all the notes in this garden, along with their links, visualized as a graph.</p>
+  
+  {% include notes_graph.html %}
+  
