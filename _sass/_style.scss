@@ -82,6 +82,11 @@ h6 {
   padding-bottom: 0;
 }
 
+nav {
+  margin: 1rem 0 2rem;
+  font-size: x-large;
+}
+
 a {
   /* transition: background 300ms;
   transition: color 300ms;
@@ -155,9 +160,7 @@ content a.internal-link {
   height: 75px;
 }
 
-nav {
-  margin: 1em 0 3em;
-}
+/* Home Layout */
 
 #home-container {
   display: grid;
@@ -199,6 +202,8 @@ nav {
   }
 }
 
+/* Note Layout */
+
 #notes-entry-container {
   display: grid;
   grid-gap: 2em;
@@ -218,11 +223,7 @@ nav {
   border-radius: $border-radius;
 }
 
-code {
-  background: #f5f5f5;
-  padding: 0.1em 0.2em;
-  border-radius: 4px;
-}
+/* Invalid Links */
 
 .invalid-link {
   color: #444444;
@@ -233,6 +234,14 @@ code {
 .invalid-link-brackets {
   color: #444444;
   cursor: help;
+}
+
+/* Code */
+
+code {
+  background: #f5f5f5;
+  padding: 0.1em 0.2em;
+  border-radius: 4px;
 }
 
 /* Notes Graph */
@@ -274,4 +283,34 @@ code {
 #graph-wrapper > svg {
   max-width: 100%;
   display: block;
+}
+
+/* Skip Links */
+.skip-links {
+  ul {
+    list-style: none;
+  }
+
+  a {
+    padding: 6px;
+    position: absolute;
+    top: -60px;
+    left: 0px;
+    color: $color-text;
+    border-right: 1px solid $color-text;
+    border-bottom: 1px solid $color-text;
+    border-bottom-right-radius: 8px;
+    -webkit-transition: top .2s ease-out;
+    transition: top .2s ease-out;
+    z-index: 100;
+  }
+
+  a:focus {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    outline-color: transparent;
+    -webkit-transition: top .2s ease-in;
+    transition: top .2s ease-in;
+  }
 }

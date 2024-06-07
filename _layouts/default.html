@@ -2,6 +2,11 @@
 <html lang="en">
   {% include head.html %}
   <body>
+    <nav class="skip-links">
+      <ul>
+        <li class="skip-link"><a href="#content" class="screen-reader-shortcut internal-link">Skip to main content</a></li>
+      </ul>
+    </nav>
     <nav>{% include nav.html %}</nav>
     <div class="wrapper">
       <main>{{ content }}</main>
