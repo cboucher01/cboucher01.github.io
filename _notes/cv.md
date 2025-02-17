@@ -17,10 +17,7 @@ title: Curriculum Vitae
 ## Professional Experience
 - **[[Educational and Scholarly Technology Assistant]]**, Library and Information Technology Services, Bryn Mawr College, Aug 2023–Present
 
-    Organize workshops for teaching digital competencies (coding, web development) and
-    critical making skills (3D design, laser cutting, crochet). Provide technical support for
-    educational technologies, including Moodle and Panopto. Consult on digital scholarship
-    and critical making projects. Manage and staff the campus Makerspaces.
+    Lead workshops on web development and UX/UI design. Train students and faculty on digital tools, including GitHub and content management systems (WordPress and Scalar). Provide technical support for educational technology, including the College’s learning management system (Moodle). Consult on digital scholarship and critical making projects. Manage and staff the College’s Makerspaces and Digital Media & Collaboration Lab. Manage multiple teams of student employees.  
 - **Digital Scholarship Project Assistant**, Library and Information Technology Services, Bryn Mawr College, Feb 2022–Aug 2023
 
     Designed and developed a website for a bilingual, annotated digital edition of a book.
@@ -71,6 +68,10 @@ title: Curriculum Vitae
 - **Front-end Developer and Project Assistant for [[The Reactor Room]]**, an immersive Chornobyl exhibition, launched November 2023
 - **Front-end Developer for [[Who Built Bryn Mawr?]] 2023-2026**, an iteration of the Who Built Bryn Mawr? project that focuses on researching Asian histories at the college, from its founding to the present day
 - **Full-stack Developer for [[The Critical Web Design Toolkit]]**, a static website template and collection of resources for sustainable and accessible web design, launched August 2022
+
+## Trainings
+- **Online International Image Interoperability Framework (IIIF) Training**, IIIF Consortium, December 2024
+- **Oral Histories Training**, Science History Institute, May 2024
 
 ## Certifications
 - **Communications Certification**, received June 2019 from the Communications Academy at Woodstown High School in Woodstown, NJ

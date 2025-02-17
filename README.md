@@ -1,3 +1,4 @@
-# (WIP) Cameron's Digital Garden
+# Cameron's Digital Garden
 
-I am in the process of creating a new personal website using this digital garden template.
+This is my new personal website. I have decided to experiment 
+with a digital garden format for this site.
