@@ -2,7 +2,10 @@
 title: Portfolio
 ---
 
-## Projects
+## Web Development
+Below is a list of projects that I was involved in as a Web Developer and/or 
+User Interface (UI) Designer.
+
 - **Project:** [[The Encyclopedia of the Dog]]
   
   **Website:** [https://encyclopediaofthedog.com](https://encyclopediaofthedog.com)
@@ -24,6 +27,11 @@ title: Portfolio
   **Role:** Front-end Developer for the project landing page and [current](https://wbbm.digitalprojects.brynmawr.edu/current/) iteration of the project.
   
   **Summary:** This website hosts the digital exhibitions for the *Who Built Bryn Mawr?* institutional history project.
+
+## Writing
+Below is a list of links to select articles I have written for the web.
+
+- ["Digital Scholarship Summer Fellows help preserve Germantown history"](https://www.brynmawr.edu/stories/digital-scholarship-summer-fellows-help-preserve-germantown-history)
 
 ## Works in Progress
 - **Project:** DoggEd
