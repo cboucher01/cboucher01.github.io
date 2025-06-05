@@ -1,5 +1,6 @@
 ---
 layout: cv
+title: Curriculum vitae
 author_profile: false
 toc: true
 ---

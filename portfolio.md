@@ -1,5 +1,6 @@
 ---
 layout: posts
+title: Portfolio
 author_profile: false
 
 gallery-dog:
