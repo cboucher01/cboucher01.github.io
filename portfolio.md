@@ -1,7 +1,7 @@
 ---
 layout: posts
 title: Portfolio
-author_profile: false
+author_profile: true
 
 gallery-dog:
   - url: /assets/img/dogopedia-1.png
