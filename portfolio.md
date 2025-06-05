@@ -67,11 +67,11 @@ gallery-dog:
 ## Graphic Design
 
 <img alt="Canvas tote bag with ILiADS 2025 column logo" src="{{ site.baseurl }}/assets/img/iliads-2025-tote.png"/>
-<caption>Design for canvas tote bag for Institute of Liberal Arts Digital Scholarship (ILiADS) 2025 at Bryn Mawr College</caption>
+<caption>Design for canvas tote bag for the Institute for Liberal Arts Digital Scholarship (ILiADS) 2025 at Bryn Mawr College</caption>
 <br>
 
 <img alt="Canvas tote bag with ILiADS 2025 word logo" src="{{ site.baseurl }}/assets/img/iliads-2025-tote-2.png"/>
-<caption>Alternate design for canvas tote bag for Institute of Liberal Arts Digital Scholarship (ILiADS) 2025 at Bryn Mawr College</caption>
+<caption>Alternate design for canvas tote bag for the Institute for Liberal Arts Digital Scholarship (ILiADS) 2025 at Bryn Mawr College</caption>
 <br>
 
 <img alt="DeafSpace event poster" src="{{ site.baseurl }}/assets/img/deafspace-poster.png"/>
