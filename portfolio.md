@@ -99,7 +99,7 @@ gallery-postcards:
 1. [Web Design and Development](#web-design-and-development)
 2. [Graphic Design](#graphic-design)
 3. [Writing](#writing)
-4. [Works in Progress](#works-in-progress)
+<!-- 4. [Works in Progress](#works-in-progress) -->
 
 ---
 
@@ -170,6 +170,7 @@ Below is a list of links to select articles I have written for the web.
 
 - ["Digital Scholarship Summer Fellows help preserve Germantown history"](https://www.brynmawr.edu/stories/digital-scholarship-summer-fellows-help-preserve-germantown-history)
 
+<!--
 ## Works in Progress
 
 ### DoggEd
@@ -177,3 +178,4 @@ Below is a list of links to select articles I have written for the web.
 **GitHub:** [https://github.com/cboucher01/dogged](https://github.com/cboucher01/dogged)
 
 **Summary:** A Jekyll template for minimal bilingual editions, based on [Ed](http://minicomp.github.io/ed) and inspired by the [Encyclopedia of the Dog](https://encyclopediaofthedog.com).
+-->
