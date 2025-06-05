@@ -83,6 +83,16 @@ gallery-maker:
     alt: "Flyer design for sticker making event"
     title: "Flyer design for sticker making event"
 
+gallery-postcards:
+  - url: /assets/img/dogopedia-postcard-front.png
+    image_path: /assets/img/dogopedia-postcard-front.png
+    alt: "Promotional postcard design for Encyclopedia of the Dog (Front)"
+    title: "Promotional postcard design for Encyclopedia of the Dog (Front)"
+  - url: /assets/img/dogopedia-postcard-back.png
+    image_path: /assets/img/dogopedia-postcard-back.png
+    alt: "Promotional postcard design for Encyclopedia of the Dog (Back)"
+    title: "Promotional postcard design for Encyclopedia of the Dog (Back)"
+
 ---
 
 ## On this page:
@@ -134,6 +144,8 @@ gallery-maker:
 ## Print and Other Graphic Design
 
 {% include gallery id="gallery-tote" caption="Designs to be printed on tote bags as swag for a conference" %}
+
+{% include gallery id="gallery-postcards" caption="Promotional postcard design for Encyclopedia of the Dog" %}
 
 <figure>
     <a href="{{ site.baseurl }}/assets/img/deafspace-poster.png"><img alt="DeafSpace event poster" src="{{ site.baseurl }}/assets/img/deafspace-poster.png"/></a>
