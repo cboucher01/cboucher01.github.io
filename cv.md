@@ -26,7 +26,7 @@ toc: true
     
     Library and Information Technology Services, Bryn Mawr College, Aug 2023–Present
 
-    Lead workshops on web development and UX/UI design. Train students and faculty on digital tools, including GitHub and content management systems (WordPress and Scalar). Provide technical support for educational technology, including the College’s learning management system (Moodle). Consult on digital scholarship and critical making projects. Manage and staff the College’s Makerspaces and Digital Media & Collaboration Lab. Manage multiple teams of student employees.
+    Lead workshops on web development and UX/UI design. Train students and faculty on digital tools, including GitHub and web content management systems. Provide technical support for educational technology, including the College’s learning management system. Consult on digital scholarship and critical making projects. Manage and staff the College’s Makerspaces and Digital Media & Collaboration Lab. Manage multiple teams of student employees.
 
 - ### Digital Scholarship Project Assistant
     
@@ -82,23 +82,53 @@ toc: true
 
 ## Awards and Honors
 
-- **Elinor Nahm Prize in Russian Literature and Culture**, Bryn Mawr College, May 2023
+- ### Elinor Nahm Prize in Russian Literature and Culture
+  Bryn Mawr College, May 2023
 
 ## Presentations
 
-- **Provost’s Office Collaboration in Progress Series presentation**, Bryn Mawr College, November 29, 2023
-- **Critical Digital Editions panel**, Association for Computers and the Humanities (ACH) Conference, June 29, 2023
-- **Slavic DH Workshop: Doing Digital Editions**, Association for Slavic, East European, and Eurasian Studies (ASEEES), January 20, 2023
-- **Building a Critical Web Design Toolkit**, Bucknell University Digital Scholarship Conference (BUDSC), October 20, 2022
+- ### Provost’s Office Collaboration in Progress Series presentation
+  Bryn Mawr College, November 29, 2023
+- ### Critical Digital Editions panel
+  Association for Computers and the Humanities (ACH) Conference, June 29, 2023
+- ### Slavic DH Workshop: Doing Digital Editions
+  Association for Slavic, East European, and Eurasian Studies (ASEEES), January 20, 2023
+- ### Building a Critical Web Design Toolkit
+  Bucknell University Digital Scholarship Conference (BUDSC), October 20, 2022
 
 ## Digital Projects
 
-- **Lead Front-end Developer and UX Designer for The Encyclopedia of the Dog**, a bilingual annotated edition of Sasha Sokolov’s 1980 novel Between Dog and Wolf, launched November 2023
-- **Front-end Developer and Project Assistant for The Reactor Room**, an immersive Chornobyl exhibition, launched November 2023
-- **Front-end Developer for Who Built Bryn Mawr? 2023-2026**, an iteration of the Who Built Bryn Mawr? project that focuses on researching Asian histories at the college, from its founding to the present day
-- **Full-stack Developer for The Critical Web Design Toolkit**, a static website template and collection of resources for sustainable and accessible web design, launched August 2022
+- ### The Encyclopedia of the Dog
+
+  Lead Front-end Developer and UX Designer
+
+  A bilingual annotated edition of Sasha Sokolov’s 1980 novel Between Dog and Wolf
+  
+  Launched November 2023
+
+- ### The Reactor Room: An immersive Chornobyl exhibition
+
+  Front-end Developer and Project Assistant
+
+  Launched November 2023
+
+- ### Who Built Bryn Mawr? 2023-2026
+
+  Front-end Developer
+  
+  The fourth iteration of the Who Built Bryn Mawr? project, which focuses on researching Asian histories at the college, from its founding to the present day
+
+- ### The Critical Web Design Toolkit
+
+  Full-stack Developer
+
+  A static website template and collection of resources for sustainable and accessible web design
+  
+  Launched August 2022
 
 ## Trainings
 
-- **Online International Image Interoperability Framework (IIIF) Training**, IIIF Consortium, December 2024
-- **Oral Histories Training**, Science History Institute, May 2024
+- ### Online International Image Interoperability Framework (IIIF) Training
+  IIIF Consortium, December 2024
+- ### Oral Histories Training
+  Science History Institute, May 2024
