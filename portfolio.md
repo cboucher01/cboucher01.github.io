@@ -91,6 +91,8 @@ gallery-maker:
 3. [Writing](#writing)
 4. [Works in Progress](#works-in-progress)
 
+---
+
 ## Web Design and Development
 
 ### The Encyclopedia of the Dog
