@@ -97,7 +97,7 @@ gallery-postcards:
 
 ## On this page:
 1. [Web Design and Development](#web-design-and-development)
-2. [Graphic Design](#graphic-design)
+2. [Print and Other Graphic Design](#print-and-other-graphic-design)
 3. [Writing](#writing)
 <!-- 4. [Works in Progress](#works-in-progress) -->
 
