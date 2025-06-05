@@ -143,7 +143,7 @@ gallery-postcards:
 
 ## Print and Other Graphic Design
 
-{% include gallery id="gallery-tote" caption="Designs to be printed on tote bags as swag for a conference" %}
+{% include gallery id="gallery-tote" caption="Designs to be printed on tote bags for a conference" %}
 
 {% include gallery id="gallery-postcards" caption="Promotional postcard design for Encyclopedia of the Dog" %}
 
