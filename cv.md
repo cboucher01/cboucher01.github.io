@@ -26,17 +26,14 @@ toc: true
     
     Library and Information Technology Services, Bryn Mawr College, Aug 2023–Present
 
-    Lead workshops on web development and UX/UI design. Train students and faculty on digital tools, including GitHub and web content management systems. Provide technical support for educational technology, including the College’s learning management system. Consult on digital scholarship and critical making projects. Manage and staff the College’s Makerspaces and Digital Media & Collaboration Lab. Manage multiple teams of student employees.
+    Perform systems administration and technical support for the College’s web hosting environment, learning management system, and web conferencing software. Design and develop websites for digital collections and publications. Develop workflows, processes, and documentation for faculty research projects. Lead workshops on static web development and user experience (UX) design. Coordinate, schedule, and promote workshops and other events. Manage timesheets and hours reporting for multiple teams of student employees.
 
 - ### Digital Scholarship Project Assistant
     
     Library and Information Technology Services, Bryn Mawr College, Feb 2022–Aug 2023
 
-    Designed and developed a website for a bilingual, annotated digital edition of a book.
-    Designed and managed a blog for the most recent phase of an ongoing institutional
-    history project, as well as a landing page for the project overall. Presented work at
-    conferences. Proofread & prepared text in English and Russian for annotation and
-    publication.
+    Designed and developed a website for a bilingual, annotated digital edition of a book. Developed a website to host a digital exhibition and blog for an institutional history project. Presented critical web development and minimal computing work at conferences. Proofread & prepared text in English and Russian for annotation and publication.
+
 
 - ### Digital Scholarship Summer Fellow
     
@@ -128,6 +125,8 @@ toc: true
 
 ## Trainings
 
+- ### Open Textbook Publishing Orientation (Pub101)
+  Open Education Network, April–May 2025
 - ### Online International Image Interoperability Framework (IIIF) Training
   IIIF Consortium, December 2024
 - ### Oral Histories Training
