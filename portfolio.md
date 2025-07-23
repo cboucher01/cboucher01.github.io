@@ -44,10 +44,6 @@ gallery-pta:
     image_path: /assets/img/pta-2.png
     alt: "Browse page for Paul Thomas Annotated prototype site"
     title: "Browse page for Paul Thomas Annotated prototype site"
-  - url: /assets/img/pta-3.png
-    image_path: /assets/img/pta-3.png
-    alt: "Subjects word cloud page for Paul Thomas Annotated prototype site"
-    title: "Subjects word cloud page for Paul Thomas Annotated prototype site"
 
 gallery-wikidata:
   - url: /assets/img/wikidata-1.png
