@@ -86,6 +86,6 @@ HTML, CSS, JavaScript, GitHub, WordPress, Bootstrap, Web Content Accessibility G
 - **Online International Image Interoperability Framework (IIIF) Training**, IIIF Consortium, December 2024
 - **Oral Histories Training**, Science History Institute, May 2024
 
-## CERTIFICATIONS
+## Certifications
 
 - **Communications Certification**, received June 2019 from the Communications Academy at Woodstown High School in Woodstown, NJ
