@@ -13,7 +13,9 @@ toc: true
 
 - ### Bryn Mawr College, Bryn Mawr, PA
 	Bachelor of Arts in Russian and History; magna cum laude with departmental honors in Russian and History; GPA: 3.920 / 4.0; September 2019–May 2023
+
 	Thesis: “The Politics of Adaptation: Yakov Protazanov’s Queen of Spades and Father Sergius in the Context of War and Revolution”
+
 	Thesis Advisors: Drs. Linda Gerstein, Marina Rojavin, & Jane Shaw
 
 - ### Russian Language Institute, Bryn Mawr College, Bryn Mawr, PA
