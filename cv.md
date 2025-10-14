@@ -7,51 +7,55 @@ toc: true
 
 ## Education
 
-- ### University of Illinois Urbana-Champaign
-	MS in Library and Information Science (MSLIS)
-	Expected graduation: December 2027
+- ### Master of Science in Library and Information Science (MSLIS)
+	- University of Illinois Urbana-Champaign
+	- Expected graduation: December 2027
 
-- ### Bryn Mawr College, Bryn Mawr, PA
-	Bachelor of Arts in Russian and History; magna cum laude with departmental honors in Russian and History; GPA: 3.920 / 4.0; September 2019–May 2023
+- ### Bachelor of Arts in Russian and History
+	- Bryn Mawr College, Bryn Mawr, PA
+	- September 2019–May 2023
+	- Magna cum laude with departmental honors in Russian and History
+	- GPA: 3.920 / 4.0
+	- Thesis: “The Politics of Adaptation: Yakov Protazanov’s Queen of Spades and Father Sergius in the Context of War and Revolution”
+	- Thesis Advisors: Drs. Linda Gerstein, Marina Rojavin, & Jane Shaw
 
-	Thesis: “The Politics of Adaptation: Yakov Protazanov’s Queen of Spades and Father Sergius in the Context of War and Revolution”
-
-	Thesis Advisors: Drs. Linda Gerstein, Marina Rojavin, & Jane Shaw
-
-- ### Russian Language Institute, Bryn Mawr College, Bryn Mawr, PA
-	Eight weeks of intensive Russian language study at the intermediate level; GPA: 4.0 / 4.0; June 2020–July 2020
+- ### Russian Language Institute
+	- Bryn Mawr College, Bryn Mawr, PA
+	- June 2020–July 2020
+	- Eight weeks of intensive Russian language study at the intermediate level
+	- GPA: 4.0 / 4.0
 
 ## Professional Experience
 
 - ### Educational and Scholarly Technology Assistant
 	Library and Information Technology Services, Bryn Mawr College, Aug 2023–Present
-	- Consult on digital scholarship, instructional design, and open educational resource projects.
-	- Develop workflows and write documentation for faculty research projects and IT knowledge bases.
-	- Administer and provide technical support for the College’s learning management system (Moodle) and web hosting environment (Domain of One’s Own). 
-	- Design and develop websites for digital publications, exhibitions, and collections.
-	- Coordinate, promote, and lead workshops on web design and development, collaborative coding via GitHub, and digital accessibility.
-	- Train students, faculty, and staff on digital tools and skills in one-on-one and group training sessions.
+	- Provide consultation on digital scholarship, instructional design, and open educational resource projects 
+	- Develop workflows and documentation for faculty research and IT knowledge bases
+	- Administer the College's learning management system (Moodle) and web hosting environment (Domain of One's Own)
+	- Design and develop websites for digital publications, exhibitions, and collections
+	- Lead workshops on web design, collaborative coding via GitHub, and digital accessibility
+	- Train students, faculty, and staff on digital tools in one-on-one and group sessions
 
 - ### Digital Scholarship Project Assistant
 	Library and Information Technology Services, Bryn Mawr College, Feb 2022–Aug 2023
-	- Designed and developed a website for a bilingual, annotated digital edition of a novel. 
-	- Developed a website to host a digital exhibition and blog for an institutional history project. 
-	- Presented on critical web development and minimal computing practice at conferences. 
-	- Proofread & prepared text in English and Russian for annotation and publication.
+	- Designed and developed a website for a bilingual, annotated digital edition of a novel
+	- Created a website to host a digital exhibition and blog for an institutional history project
+	- Presented on critical web development and minimal computing at academic conferences
+	- Prepared and proofread text in English and Russian for annotation and publication
 
 - ### Digital Scholarship Summer Fellow
 	Library and Information Technology Services, Bryn Mawr College, May 2022–Aug 2022
-	- Designed and deployed four websites in ten weeks. 
-	- Collaborated with a team and worked independently. 
-	- Managed multiple projects at once. 
-	- Conducted user research and testing.
-	- Attended workshops on web design, GIS, accessibility, sustainability, digital preservation, and project management.
+	- Designed and deployed four websites in ten weeks
+	- Conducted user research and testing for digital projects
+	- Managed multiple concurrent projects independently and collaboratively
+	- Participated in workshops on web design, GIS, accessibility, digital preservation, and project management
+
 - ### Administrative Assistant
 	Lacy's Express, Inc., Jun 2021–Aug 2021
-	- Streamlined process of commercial invoicing for U.S. Customs and Border Protection. 
-	- Coordinated with clients on matters of billing. 
-	- Maintained accurate digital records of daily fuel logs and vehicle mileage. 
-	- Maintained and applied for renewals of state hazardous waste transporter permits.
+	- Streamlined commercial invoicing processes for U.S. Customs and Border Protection
+	- Coordinated with clients on matters of billing
+	- Maintained accurate digital records of daily fuel logs and vehicle mileage
+	- Managed renewals of state hazardous waste transporter permits
 
 ## Languages
 - English (native)
