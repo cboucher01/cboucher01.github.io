@@ -9,15 +9,15 @@ toc: true
 
 - ### Master of Science in Library and Information Science (MSLIS)
 	- University of Illinois Urbana-Champaign
-	- Expected graduation: December 2027
+	- **Expected graduation:** December 2027
 
 - ### Bachelor of Arts in Russian and History
 	- Bryn Mawr College, Bryn Mawr, PA
 	- September 2019–May 2023
 	- Magna cum laude with departmental honors in Russian and History
-	- GPA: 3.920 / 4.0
-	- Thesis: “The Politics of Adaptation: Yakov Protazanov’s Queen of Spades and Father Sergius in the Context of War and Revolution”
-	- Thesis Advisors: Drs. Linda Gerstein, Marina Rojavin, & Jane Shaw
+	- **GPA:** 3.920 / 4.0
+	- **Thesis:** “The Politics of Adaptation: Yakov Protazanov’s Queen of Spades and Father Sergius in the Context of War and Revolution”
+	- **Thesis Advisors:** Drs. Linda Gerstein, Marina Rojavin, & Jane Shaw
 
 - ### Russian Language Institute
 	- Bryn Mawr College, Bryn Mawr, PA
@@ -80,14 +80,14 @@ HTML, CSS, JavaScript, GitHub, WordPress, Bootstrap, Web Content Accessibility G
 
 ## Digital Projects
 
-- ***Paul Thomas Annotated: In the Margins***, a digital collection of annotated screenshots from each of Paul Thomas Anderson’s ten narrative films to date, [https://digbmc.github.io/pt-annotated/](https://digbmc.github.io/pt-annotated/).
+- ***Paul Thomas Annotated: In the Margins***, a digital collection of annotated screenshots from each of Paul Thomas Anderson’s ten narrative films to date, [https://ptannotated.com/](https://ptannotated.com/).
 - ***The Encyclopedia of the Dog***, a bilingual annotated edition of Sasha Sokolov’s 1980 novel Between Dog and Wolf, launched November 2023, [https://encyclopediaofthedog.com/](https://encyclopediaofthedog.com/)
 - ***The Reactor Room, an immersive Chornobyl exhibition***, launched November 2023, [https://digitalscholarship.brynmawr.edu/reactor-room/](https://digitalscholarship.brynmawr.edu/reactor-room/)
-- ***Who Built Bryn Mawr?: Disoriented***, an iteration of the Who Built Bryn Mawr? institutional history project that focuses on researching Asian histories at the college, from its founding to the present day, [https://wbbm.digitalprojects.brynmawr.edu/current/](https://wbbm.digitalprojects.brynmawr.edu/current/) 
+- ***Who Built Bryn Mawr?: Disoriented***, an iteration of the Who Built Bryn Mawr? history project focusing on Asian histories at the college, from its founding to the present day, [https://wbbm.digitalprojects.brynmawr.edu/current/](https://wbbm.digitalprojects.brynmawr.edu/current/) 
 - ***The Critical Web Design Toolkit***, a static website template and collection of resources for sustainable and accessible web design, launched August 2022, [https://digbmc.github.io/cwd-toolkit/](https://digbmc.github.io/cwd-toolkit/)
 
 ## Trainings
-
+- **AI Ready**, Council of Independent Colleges, October 2025-January 2026
 - **Pub101: Open Textbook Publishing**, Open Education Network, April–May 2025
 - **Online International Image Interoperability Framework (IIIF) Training**, IIIF Consortium, December 2024
 - **Oral Histories Training**, Science History Institute, May 2024

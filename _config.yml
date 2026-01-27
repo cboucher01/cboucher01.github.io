@@ -115,7 +115,7 @@ analytics:
 author:
   name             : "Cameron Boucher"
   avatar           : "/assets/img/cameron-portrait-small.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am a web developer with a background in communications, digital scholarship, and education technology."
+  bio              : "I am a web developer with a background in communications, digital scholarship, and educational technology."
   location         : "Philadelphia"
   email            :
   links:
