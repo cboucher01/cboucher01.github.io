@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : dark # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise", "dirt" 
 
 # Site Settings
 locale                   : "en-US"
@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "Cameron Boucher"
-  avatar           : "/assets/img/cameron-portrait-small.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/img/cameron-portrait-square-dithered.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am a web developer with a background in communications, digital scholarship, and educational technology."
   location         : "Philadelphia"
   email            :
