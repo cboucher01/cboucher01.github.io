@@ -29,7 +29,7 @@ August 2023–Present
 - Deliver workshops on web development, user experience, digital accessibility, and AI literacy for faculty, students, and staff.
 - Consult on digital scholarship, instructional design, and open educational resource projects, including project planning, tool selection, metadata, and sustainability.
 - Create workflows and documentation for faculty research projects and IT knowledge bases, supporting inclusive and ethical digital practices.
-- Train and mentor students, faculty, and staff in digital tools and emerging technologies.
+- Supervise and mentor student workers, coordinating hiring, payroll, and training.
 
 ### Digital Scholarship Project Assistant
 
