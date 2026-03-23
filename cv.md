@@ -14,7 +14,8 @@ Expected Graduation: May 2027
 **Bryn Mawr College**  
 Bachelor of Arts in Russian and History  
 Magna cum laude with departmental honors  
-GPA: 3.92 / 4.0 | September 2019–May 2023
+GPA: 3.92 / 4.0
+September 2019–May 2023
 
 ---
 
